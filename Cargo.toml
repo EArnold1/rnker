@@ -1,0 +1,15 @@
+[package]
+name = "rnker"
+version = "0.1.0"
+edition = "2024"
+authors = [
+"Arnold Emmanuel <arnoldemmanuel15@gmail.com>" # https://github.com/EArnold1
+]
+description = "An order statistic tree (ranking tree): a balanced binary search tree that supports rank and select queries in O(log n)."
+license = "MIT"
+repository = "https://github.com/EArnold1/rnker"
+keywords = ["order-statistic-tree", "rank", "select", "bst", "data-structure"]
+categories = ["data-structures", "algorithms"]
+readme = "README.md"
+
+[dependencies]
